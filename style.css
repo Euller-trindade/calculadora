@@ -1,0 +1,60 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(253, 253, 253);
+}
+
+input{
+    color: rgb(255, 254, 254);
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    font-family: 'Gwendolyn', cursiva;
+    border-radius: 20%;
+}
+.num{
+    width: 64px;
+    height: 67px;
+}
+.text{
+    width: 160px;
+    height: 26px;
+    border-radius: 10%;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.text1{
+    width: 24px;
+    height: 26px;
+    border-radius: 10%;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+.main{
+    position: absolute;
+}
+.maincolor{
+    background-color:rgb(3, 3, 3) ;
+}
+.blue{
+    background-color:rgb(255, 255, 255) ;
+    color: black;
+}
+.wht{
+    background-color:rgb(255, 255, 255) ;
+    color: black;
+}
+.gre{
+    background-color:rgb(255, 255, 255) ;
+    color: black;
+}
+.blk{
+    background-color:rgb(255, 255, 255) ;
+    color: black;
+}
